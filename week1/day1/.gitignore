@@ -1,0 +1,17 @@
+# API keys and environment variables
+.env
+.env.*
+**/.env
+**/.env.*
+
+# Python environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
